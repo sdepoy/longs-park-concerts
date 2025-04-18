@@ -1,174 +1,125 @@
 BEGIN:VCALENDAR
 VERSION:2.0
+PRODID:-//Your Organization//Your Application//EN
 CALSCALE:GREGORIAN
-METHOD:PUBLISH
-PRODID:-//Long's Park Concert Series//EN
 BEGIN:VEVENT
-SUMMARY:David Uosikkinen's In The Pocket
-DTSTART;TZID=America/New_York:20250601T193000
-DTEND;TZID=America/New_York:20250601T213000
+UID:longsparkconcert-20250601T193000Z
+DTSTAMP:20250418T183000Z
+DTSTART:20250601T193000
+DTEND:20250601T213000
+SUMMARY:Concert: David Uosikkinen's In The Pocket
+DESCRIPTION:From Phialdelphia, PA. David Uosikkinen, drummer and founding member of the legendary Philadelphia band The Hooters, will bring an all-star lineup to Long's Park for the first concert of the season. His ambitious and musically tasty In The Pocket project features a rotating lineup of Philly's most-celebrated musicians to cover classic Philadelphia songs, including Tommy Conwell, members of The A's and more.\nBeer Garden: Mad Chef Craft Brewing
 LOCATION:Long's Park Amphitheater, Lancaster, PA
-DESCRIPTION:From Philadelphia, PA. David Uosikkinen... Beer Garden: Mad Chef Craft Brewing
-STATUS:CONFIRMED
-SEQUENCE:0
-BEGIN:VALARM
-TRIGGER:-PT60M
-ACTION:DISPLAY
-DESCRIPTION:David Uosikkinen's In The Pocket starts in 1 hour
-END:VALARM
+TZID:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Della Mae
-DTSTART;TZID=America/New_York:20250608T193000
-DTEND;TZID=America/New_York:20250608T213000
+UID:longsparkconcert-20250608T193000Z
+DTSTAMP:20250418T183000Z
+DTSTART:20250608T193000
+DTEND:20250608T213000
+SUMMARY:Concert: Della Mae
+DESCRIPTION:From Boston, MA. A Grammy Award-nominated, all-women string band, Della Mae features founder and fiddle player Kimber Ludiker, lead vocalist/guitarist Celia Woodsmith, guitarist Avril Smith and bassist Vickie Vaughn.  Hailing from across North America, and reared in diverse musical styles, they are one of the most charismatic and engaging roots bands touring today. Della Mae has traveled to over 30 countries, spreading peace and understanding through music.\nBeer Garden: Our Town Brewery
 LOCATION:Long's Park Amphitheater, Lancaster, PA
-DESCRIPTION:From Boston, MA... Beer Garden: Our Town Brewery
-STATUS:CONFIRMED
-SEQUENCE:0
-BEGIN:VALARM
-TRIGGER:-PT60M
-ACTION:DISPLAY
-DESCRIPTION:Della Mae starts in 1 hour
-END:VALARM
+TZID:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Alsarah and the Nubatones
-DTSTART;TZID=America/New_York:20250615T193000
-DTEND;TZID=America/New_York:20250615T213000
+UID:longsparkconcert-20250615T193000Z
+DTSTAMP:20250418T183000Z
+DTSTART:20250615T193000
+DTEND:20250615T213000
+SUMMARY:Concert: Alsarah and the Nubatones
+DESCRIPTION:From Sudan/USA. Alsarah & the Nubatones "were born out of many dinner conversations between Alsarah and Rami El Aasser about nubian ‘songs of return,' modern migration patterns and the cultural exchanges between Sudan and Egypt," the band's website says. Under the leadership of the Sudan-born Alsarah, the Brooklyn based group’s sound grew into what they have dubbed ‘East-African Retro-Pop’.\nBeer Garden: tbd
 LOCATION:Long's Park Amphitheater, Lancaster, PA
-DESCRIPTION:From Sudan/USA... Beer Garden: tbd
-STATUS:CONFIRMED
-SEQUENCE:0
-BEGIN:VALARM
-TRIGGER:-PT60M
-ACTION:DISPLAY
-DESCRIPTION:Alsarah and the Nubatones starts in 1 hour
-END:VALARM
+TZID:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Skerryvore
-DTSTART;TZID=America/New_York:20250622T193000
-DTEND;TZID=America/New_York:20250622T213000
+UID:longsparkconcert-20250622T193000Z
+DTSTAMP:20250418T183000Z
+DTSTART:20250622T193000
+DTEND:20250622T213000
+SUMMARY:Concert: Skerryvore
+DESCRIPTION:From Scotland. The Summer Concert Series' annual Celtic concert this year features Skerryvore, a band that is "at the forefront of a movement that has reinvented and reignited a traditional Scottish scene for a modern, multicultural audience." Skerryvore has brought their high energy performances to audiences across the globe and will bring plenty of energy to the Amphitheater lawn.\nBeer Garden: tbd
 LOCATION:Long's Park Amphitheater, Lancaster, PA
-DESCRIPTION:From Scotland... Beer Garden: tbd
-STATUS:CONFIRMED
-SEQUENCE:0
-BEGIN:VALARM
-TRIGGER:-PT60M
-ACTION:DISPLAY
-DESCRIPTION:Skerryvore starts in 1 hour
-END:VALARM
+TZID:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The U.S. Army Band, 'Pershing's Own'
-DTSTART;TZID=America/New_York:20250629T193000
-DTEND;TZID=America/New_York:20250629T213000
+UID:longsparkconcert-20250629T193000Z
+DTSTAMP:20250418T183000Z
+DTSTART:20250629T193000
+DTEND:20250629T210000
+SUMMARY:Concert: The U.S. Army Band, "Pershing's Own"
+DESCRIPTION:From Fort Myer, VA. Long's Park's annual patriotic concert and fireworks display once again will feature the U.S. Army Band "Pershing's Own," which provides musical support for the leadership of the United States, to include all branches of government and to a wide spectrum of national and international events in order to connect the Army to the American people. The concert begins at 7:30 p.m., with fireworks to follow at approximately 9 p.m.\nBeer Garden: tbd
 LOCATION:Long's Park Amphitheater, Lancaster, PA
-DESCRIPTION:Annual patriotic concert and fireworks. Beer Garden: tbd
-STATUS:CONFIRMED
-SEQUENCE:0
-BEGIN:VALARM
-TRIGGER:-PT60M
-ACTION:DISPLAY
-DESCRIPTION:The U.S. Army Band, 'Pershing's Own' starts in 1 hour
-END:VALARM
+TZID:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ghost Note
-DTSTART;TZID=America/New_York:20250706T193000
-DTEND;TZID=America/New_York:20250706T213000
+UID:longsparkconcert-20250706T193000Z
+DTSTAMP:20250418T183000Z
+DTSTART:20250706T193000
+DTEND:20250706T213000
+SUMMARY:Concert: Ghost Note
+DESCRIPTION:From New Orleans, LA. Ghost-Note is a percussion-based funk, hip hop and jazz fusion group from Dallas, Texas, with a rotating membership based around founding drummer Robert "Sput" Searight and founding percussionist Nate Werth, two members of the jazz band Snarky Puppy.\nBeer Garden: tbd
 LOCATION:Long's Park Amphitheater, Lancaster, PA
-DESCRIPTION:Percussion-based fusion group. Beer Garden: tbd
-STATUS:CONFIRMED
-SEQUENCE:0
-BEGIN:VALARM
-TRIGGER:-PT60M
-ACTION:DISPLAY
-DESCRIPTION:Ghost Note starts in 1 hour
-END:VALARM
+TZID:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Galactic featuring Jelly Joseph
-DTSTART;TZID=America/New_York:20250713T193000
-DTEND;TZID=America/New_York:20250713T213000
+UID:longsparkconcert-20250713T193000Z
+DTSTAMP:20250418T183000Z
+DTSTART:20250713T193000
+DTEND:20250713T213000
+SUMMARY:Concert: Galactic featuring Jelly Joseph
+DESCRIPTION:From New Orleans, LA. The New Orleans-based jazz and funk band, featuring lead singer Anjelika "Jelly" Joseph, will have the audience dancing in the aisles with its blend of rock, blues, hip-hop, electronic and world music.\nBeer Garden: tbd
 LOCATION:Long's Park Amphitheater, Lancaster, PA
-DESCRIPTION:Jazz-funk fusion from New Orleans. Beer Garden: tbd
-STATUS:CONFIRMED
-SEQUENCE:0
-BEGIN:VALARM
-TRIGGER:-PT60M
-ACTION:DISPLAY
-DESCRIPTION:Galactic featuring Jelly Joseph starts in 1 hour
-END:VALARM
+TZID:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ALO
-DTSTART;TZID=America/New_York:20250720T193000
-DTEND;TZID=America/New_York:20250720T213000
+UID:longsparkconcert-20250720T193000Z
+DTSTAMP:20250418T183000Z
+DTSTART:20250720T193000
+DTEND:20250720T213000
+SUMMARY:Concert: ALO
+DESCRIPTION:From San Francisco, CA. Animal Liberation Orchestra is a California rock band currently signed to Jack Johnson's Brushfire Records label. They've been wowing audiences with their unique, psychedelic sound since 1988.\nBeer Garden: tbd
 LOCATION:Long's Park Amphitheater, Lancaster, PA
-DESCRIPTION:California psychedelic rock. Beer Garden: tbd
-STATUS:CONFIRMED
-SEQUENCE:0
-BEGIN:VALARM
-TRIGGER:-PT60M
-ACTION:DISPLAY
-DESCRIPTION:ALO starts in 1 hour
-END:VALARM
+TZID:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hippies & Cowboys
-DTSTART;TZID=America/New_York:20250727T193000
-DTEND;TZID=America/New_York:20250727T213000
+UID:longsparkconcert-20250727T193000Z
+DTSTAMP:20250418T183000Z
+DTSTART:20250727T193000
+DTEND:20250727T213000
+SUMMARY:Concert: Hippies & Cowboys
+DESCRIPTION:From Nashville, TN. A new band of outlaws bringing you the best Southern Rock n Soul in decades, Hippies and Cowboys is made up of singer Aaron Sparling, drummer Scott Metko, guitarist Andrew Lambie, bassist Kevin Corbo, keyboardist Nolan Brown and saxophonist Matty Sax.\nBeer Garden: tbd
 LOCATION:Long's Park Amphitheater, Lancaster, PA
-DESCRIPTION:Southern Rock n Soul. Beer Garden: tbd
-STATUS:CONFIRMED
-SEQUENCE:0
-BEGIN:VALARM
-TRIGGER:-PT60M
-ACTION:DISPLAY
-DESCRIPTION:Hippies & Cowboys starts in 1 hour
-END:VALARM
+TZID:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eli Paperboy Reed and the Harlem Gospel Travelers
-DTSTART;TZID=America/New_York:20250803T193000
-DTEND;TZID=America/New_York:20250803T213000
+UID:longsparkconcert-20250803T193000Z
+DTSTAMP:20250418T183000Z
+DTSTART:20250803T193000
+DTEND:20250803T213000
+SUMMARY:Concert: Eli Paperboy Reed and the Harlem Gospel Travelers
+DESCRIPTION:From Nashville, TN. Eli "Paperboy" Reed cut his teeth in the early 2000s, first in the juke joints of Clarksdale, MS, where he moved after graduating high school in 2002, and then in the southside Chicago church of Soul legend Mitty Collier. The Harlem Gospel Travelers are an oddball collection of musicians who can play everything from avant garde jazz to modern gospel.\nBeer Garden: tbd
 LOCATION:Long's Park Amphitheater, Lancaster, PA
-DESCRIPTION:Soul revival and gospel. Beer Garden: tbd
-STATUS:CONFIRMED
-SEQUENCE:0
-BEGIN:VALARM
-TRIGGER:-PT60M
-ACTION:DISPLAY
-DESCRIPTION:Eli Paperboy Reed and the Harlem Gospel Travelers starts in 1 hour
-END:VALARM
+TZID:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Jamie McLean Band
-DTSTART;TZID=America/New_York:20250810T193000
-DTEND;TZID=America/New_York:20250810T213000
+UID:longsparkconcert-20250810T193000Z
+DTSTAMP:20250418T183000Z
+DTSTART:20250810T193000
+DTEND:20250810T213000
+SUMMARY:Concert: Jamie McLean Band
+DESCRIPTION:From Stamford, CT. Jamie McLean Band creates a musical gumbo that incorporates New Orleans soul, middle Americana roots, Delta blues and New York City swagger. Jamie McLean Band is a triple threat. The group’s energetic and captivating live show is undeniable. McLean’s fiery guitar has joined the ranks of Derek Trucks, Gregg Allman, Aaron Neville, Dr. John and more on stages from from Madison Square Garden to Japan’s Fuji Rock.\nBeer Garden: Jimmy Juice
 LOCATION:Long's Park Amphitheater, Lancaster, PA
-DESCRIPTION:Musical gumbo – New Orleans soul & Americana. Beer Garden: Jimmy Juice
-STATUS:CONFIRMED
-SEQUENCE:0
-BEGIN:VALARM
-TRIGGER:-PT60M
-ACTION:DISPLAY
-DESCRIPTION:Jamie McLean Band starts in 1 hour
-END:VALARM
+TZID:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Harrisburg Jazz Collective
-DTSTART;TZID=America/New_York:20250817T193000
-DTEND;TZID=America/New_York:20250817T213000
+UID:longsparkconcert-20250817T193000Z
+DTSTAMP:20250418T183000Z
+DTSTART:20250817T193000
+DTEND:20250817T213000
+SUMMARY:Concert: Harrisburg Jazz Collective
+DESCRIPTION:From Harrisburg, PA. Formerly known as The River City Big Band, the Harrisburg Jazz Collective features jazz pianist Steve Rudolph, described by Jazz Improv Magazine as "a savvy, swinging, glimmering heavyweight."\nBeer Garden: tbd
 LOCATION:Long's Park Amphitheater, Lancaster, PA
-DESCRIPTION:Jazz from Harrisburg. Beer Garden: tbd
-STATUS:CONFIRMED
-SEQUENCE:0
-BEGIN:VALARM
-TRIGGER:-PT60M
-ACTION:DISPLAY
-DESCRIPTION:Harrisburg Jazz Collective starts in 1 hour
-END:VALARM
+TZID:America/New_York
 END:VEVENT
 END:VCALENDAR
