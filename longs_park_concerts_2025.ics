@@ -1,122 +1,92 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 CALSCALE:GREGORIAN
-PRODID:-//Long's Park Concerts//EN
+PRODID:-//Long's Park Summer Music Series//EN
 METHOD:PUBLISH
-
-BEGIN:VTIMEZONE
-TZID:America/New_York
-X-LIC-LOCATION:America/New_York
-BEGIN:DAYLIGHT
-TZOFFSETFROM:-0500
-TZOFFSETTO:-0400
-TZNAME:EDT
-DTSTART:19700308T020000
-RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
-END:DAYLIGHT
-BEGIN:STANDARD
-TZOFFSETFROM:-0400
-TZOFFSETTO:-0500
-TZNAME:EST
-DTSTART:19701101T020000
-RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
-END:STANDARD
-END:VTIMEZONE
-
+NAME:Long's Park Summer Music Series 2025
+DESCRIPTION:Free concerts every Sunday at Long's Park in Lancaster, PA. All concerts start at 7:30 PM and end at 9:30 PM.
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20250601T193000
-DTEND;TZID=America/New_York:20250601T213000
+UID:20250601@longspark
 SUMMARY:David Uosikkinen's In The Pocket
-LOCATION:Long's Park Amphitheater, Lancaster, PA
-DESCRIPTION:Philadelphia’s own David Uosikkinen (The Hooters) brings an all-star lineup celebrating classic Philly music. Beer Garden: Mad Chef Craft Brewing
+DESCRIPTION:From Philadelphia, PA. David Uosikkinen, drummer and founding member of The Hooters, brings an all-star lineup. Beer Garden: Mad Chef Craft Brewing
+DTSTART:20250601T233000Z
+DTEND:20250602T013000Z
 END:VEVENT
-
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20250608T193000
-DTEND;TZID=America/New_York:20250608T213000
+UID:20250608@longspark
 SUMMARY:Della Mae
-LOCATION:Long's Park Amphitheater, Lancaster, PA
-DESCRIPTION:Grammy-nominated all-women string band bringing roots and bluegrass charm. Beer Garden: Our Town Brewery
+DESCRIPTION:From Boston, MA. Grammy-nominated, all-women string band. Beer Garden: Our Town Brewery
+DTSTART:20250608T233000Z
+DTEND:20250609T013000Z
 END:VEVENT
-
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20250615T193000
-DTEND;TZID=America/New_York:20250615T213000
+UID:20250615@longspark
 SUMMARY:Alsarah and the Nubatones
-LOCATION:Long's Park Amphitheater, Lancaster, PA
-DESCRIPTION:East-African retro-pop blending Sudanese heritage and modern beats. Beer Garden: tbd
+DESCRIPTION:From Sudan/USA. East-African Retro-Pop. Beer Garden: tbd
+DTSTART:20250615T233000Z
+DTEND:20250616T013000Z
 END:VEVENT
-
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20250622T193000
-DTEND;TZID=America/New_York:20250622T213000
+UID:20250622@longspark
 SUMMARY:Skerryvore
-LOCATION:Long's Park Amphitheater, Lancaster, PA
-DESCRIPTION:High-energy Celtic rock from Scotland. Beer Garden: tbd
+DESCRIPTION:From Scotland. High energy Celtic music. Beer Garden: tbd
+DTSTART:20250622T233000Z
+DTEND:20250623T013000Z
 END:VEVENT
-
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20250629T193000
-DTEND;TZID=America/New_York:20250629T210000
+UID:20250629@longspark
 SUMMARY:The U.S. Army Band "Pershing's Own"
-LOCATION:Long's Park Amphitheater, Lancaster, PA
-DESCRIPTION:Annual patriotic concert and fireworks show with the prestigious U.S. Army Band. Beer Garden: tbd
+DESCRIPTION:From Fort Myer, VA. Patriotic concert with fireworks. Beer Garden: tbd
+DTSTART:20250629T233000Z
+DTEND:20250630T013000Z
 END:VEVENT
-
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20250706T193000
-DTEND;TZID=America/New_York:20250706T213000
-SUMMARY:Ghost Note
-LOCATION:Long's Park Amphitheater, Lancaster, PA
-DESCRIPTION:Funk, hip hop, and jazz fusion from members of Snarky Puppy. Beer Garden: tbd
+UID:20250706@longspark
+SUMMARY:Ghost-Note
+DESCRIPTION:From New Orleans, LA. Percussion-based funk/hip hop fusion. Beer Garden: tbd
+DTSTART:20250706T233000Z
+DTEND:20250707T013000Z
 END:VEVENT
-
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20250713T193000
-DTEND;TZID=America/New_York:20250713T213000
+UID:20250713@longspark
 SUMMARY:Galactic featuring Jelly Joseph
-LOCATION:Long's Park Amphitheater, Lancaster, PA
-DESCRIPTION:New Orleans jazz-funk legends with dynamic vocals and infectious grooves. Beer Garden: tbd
+DESCRIPTION:From New Orleans, LA. Jazz, funk, rock, and world music. Beer Garden: tbd
+DTSTART:20250713T233000Z
+DTEND:20250714T013000Z
 END:VEVENT
-
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20250720T193000
-DTEND;TZID=America/New_York:20250720T213000
+UID:20250720@longspark
 SUMMARY:ALO (Animal Liberation Orchestra)
-LOCATION:Long's Park Amphitheater, Lancaster, PA
-DESCRIPTION:California rock with a psychedelic twist, signed to Jack Johnson’s label. Beer Garden: tbd
+DESCRIPTION:From San Francisco, CA. California rock with a psychedelic twist. Beer Garden: tbd
+DTSTART:20250720T233000Z
+DTEND:20250721T013000Z
 END:VEVENT
-
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20250727T193000
-DTEND;TZID=America/New_York:20250727T213000
+UID:20250727@longspark
 SUMMARY:Hippies & Cowboys
-LOCATION:Long's Park Amphitheater, Lancaster, PA
-DESCRIPTION:Southern Rock n Soul revival straight out of Nashville. Beer Garden: tbd
+DESCRIPTION:From Nashville, TN. Southern Rock n Soul. Beer Garden: tbd
+DTSTART:20250727T233000Z
+DTEND:20250728T013000Z
 END:VEVENT
-
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20250803T193000
-DTEND;TZID=America/New_York:20250803T213000
-SUMMARY:Eli Paperboy Reed & The Harlem Gospel Travelers
-LOCATION:Long's Park Amphitheater, Lancaster, PA
-DESCRIPTION:Soulful energy blending blues, gospel, and vintage R&B. Beer Garden: tbd
+UID:20250803@longspark
+SUMMARY:Eli Paperboy Reed and the Harlem Gospel Travelers
+DESCRIPTION:From Nashville, TN. Soul and gospel. Beer Garden: tbd
+DTSTART:20250803T233000Z
+DTEND:20250804T013000Z
 END:VEVENT
-
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20250810T193000
-DTEND;TZID=America/New_York:20250810T213000
+UID:20250810@longspark
 SUMMARY:Jamie McLean Band
-LOCATION:Long's Park Amphitheater, Lancaster, PA
-DESCRIPTION:New Orleans soul meets Americana roots and NYC swagger. Beer Garden: Jimmy Juice
+DESCRIPTION:From Stamford, CT. New Orleans soul, Delta blues, Americana. Beer Garden: Jimmy Juice
+DTSTART:20250810T233000Z
+DTEND:20250811T013000Z
 END:VEVENT
-
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20250817T193000
-DTEND;TZID=America/New_York:20250817T213000
+UID:20250817@longspark
 SUMMARY:Harrisburg Jazz Collective
-LOCATION:Long's Park Amphitheater, Lancaster, PA
-DESCRIPTION:Big band jazz from Pennsylvania’s capital featuring Steve Rudolph. Beer Garden: tbd
+DESCRIPTION:From Harrisburg, PA. Formerly River City Big Band. Jazz with Steve Rudolph. Beer Garden: tbd
+DTSTART:20250817T233000Z
+DTEND:20250818T013000Z
 END:VEVENT
-
 END:VCALENDAR
